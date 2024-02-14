@@ -1,0 +1,15 @@
+{
+  "name": "Partner relaties",
+  "style": "Table",
+  "Fields": [
+    {
+      "name": "relaties",
+      "UseExistingInfo": false,
+      "FrontendFields": [
+        {}
+      ],
+      "Command": "Get-CIPP",
+      "URL": "https://graph.microsoft.com/v1.0"
+    }
+  ]
+}
